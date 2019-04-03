@@ -1,3 +1,9 @@
+# :rotating_light: Warning
+
+This repository is DEPRECATED and not maintaned anymore.
+
+---
+
 Library Project including Google Play services client jar.
 
 This can be used by an Android project to use the API's provided
